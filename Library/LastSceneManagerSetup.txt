@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/mtmp3z.unity
+  isLoaded: 1
+  isActive: 1
